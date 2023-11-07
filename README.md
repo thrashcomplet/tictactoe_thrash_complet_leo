@@ -1,5 +1,7 @@
 <!-- # ⭕ Tic-Tac-Toe -->
 
+Discord: thrash_complet
+
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
 A standard game of Tic-Tac-Toe in Leo.
